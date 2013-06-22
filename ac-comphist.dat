@@ -1,1632 +1,1632 @@
-((("ResultHg" .
-   [1 0 0 2 0 0 2 1])
-  ("s2" .
-   [2 0])
-  ("s1" .
-   [2 0])
-  ("stateLess" .
-   [2 0 0 0 0 0 0 1 0])
-  ("_2" .
-   [2 0])
-  ("_1" .
-   [2 0])
-  ("arcLess" .
-   [2 0 0 0 0 0 0])
-  ("ParseTraits" .
-   [0 0 0 0 0 1 1 0 0 0 0])
-  ("CubeGrowRescoring" .
-   [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("bind" .
-   [2 0 0 0])
-  ("nth_element" .
-   [0 0 0 0 0 0 0 1 0 0 0])
-  ("nth_iter" .
-   [0 0 0 1 2 0 0 0])
-  ("KeyValue" .
-   [0 0 0 0 2 0 0 0])
-  ("ArcsConta" .
-   [0 0 0 0 0 0 0 1 0])
-  ("ArcsContainer" .
-   [1 0 0 0 2 1 0 0 1 0 0 0 0])
-  ("pair" .
-   [1 0 0 0])
-  ("compile" .
-   [1 0 0 0 0 0 1])
-  ("cube_item_ext" .
-   [1 0 0 0 0 0 0 0 3 1 2 0 1])
-  ("item_lists" .
-   [1 0 0 0 0 0 0 0 1 0])
-  ("rank" .
-   [4 0 0 0])
-  ("item_ranks" .
-   [1 0 0 0 0 0 1 0 1 0])
-  ("stage" .
-   [8 0 0 0 0])
-  ("state_carry_" .
-   [0 0 0 0 0 0 0 1 0 0 0 0])
-  ("items_tofill" .
-   [0 0 0 0 0 0 2 1 4 0 0 0])
-  ("make_pair" .
-   [1 0 0 0 0 0 0 0 0])
-  ("spannonterm_states_" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("new_head" .
-   [1 0 0 0 0 1 0 4])
-  ("getPostCondition" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("post" .
-   [6 0 0 0])
-  ("arc_score_" .
-   [0 0 0 0 0 0 1 2 0 1])
-  ("temp_state_arcs_" .
-   [1 0 0 0 0 1 1 0 0 0 2 1 0 1 0 0])
-  ("setData" .
-   [0 0 0 0 2 1 0])
-  ("additionalFeats" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("pRule" .
-   [0 0 1 0 0])
-  ("rule_feats" .
-   [0 0 0 0 0 0 3 0 3 0])
-  ("nonlex_sid" .
-   [2 0 0 0 0 0 0 0 0 0])
-  ("non" .
-   [1 0 0])
-  ("additional_score" .
-   [0 0 0 0 1 2 0 0 1 0 0 0 0 1 0 0])
-  ("ResultArc" .
-   [1 0 0 0 0 0 0 0 0])
-  ("state_score_" .
-   [3 0 0 0 0 0 0 0 0 1 2 0])
-  ("state_score" .
-   [1 0 0 0 0 0 0 2 4 0 0])
-  ("ScoreType" .
-   [1 0 0 0 0 0 0 2 0])
-  ("temp_carry_state_" .
-   [0 0 0 0 0 2 0 1 0 0 0 0 0 0 0 0 0])
-  ("cit" .
-   [8 0 0])
-  ("lex_iter" .
-   [0 0 0 0 0 1 0 0])
-  ("nonlex_iter" .
-   [0 0 0 0 0 0 0 2 0 0 0])
-  ("isVariable" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("symid" .
-   [2 0 0 0 0])
-  ("getTargetFormula" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("SymId" .
-   [1 0 0 3 0])
-  ("nonterm_beam_" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("num_items_per_nonterm" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("ChartT" .
-   [6 0 0 0 0 0])
-  ("private" .
-   [2 0 0 0 0 0 0])
-  ("CubeGrowConfig" .
-   [0 0 0 0 1 1 0 0 0 0 0 0 0 0])
-  ("kLMFeatId" .
-   [0 0 0 0 1 0 0 0 0])
-  ("RuleAndAdditionalFeats" .
-   [0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("output_carry" .
-   [0 0 0 0 0 0 2 4 0 0 0 0])
-  ("getRuleForScore" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("RuleForScoreType" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("compute" .
-   [1 0 0 0 0 0 0])
-  ("ext_feats" .
-   [0 0 0 1 1 0 0 0 1])
-  ("RuleExternalFeaturesArray" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("getSyntaxRuleScore" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("setInsideScore" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("item" .
-   [3 0 0 0])
-  ("carries" .
-   [1 0 0 0 0 1 1])
-  ("Carry" .
-   [2 0 0 0 0])
-  ("ScoreFunctionType" .
-   [0 0 0 2 1 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("break" .
-   [1 0 0 0 0])
-  ("rescore" .
-   [0 0 0 0 1 1 0])
-  ("cubeExpand" .
-   [0 0 0 0 0 0 2 0 0 0])
-  ("accept" .
-   [2 0 0 1 0 0])
-  ("pop_back" .
-   [0 0 0 0 0 1 0 0])
-  ("pop_heap" .
-   [0 0 0 0 0 0 0 1])
-  ("top" .
-   [3 0 0])
-  ("Cube" .
-   [9 0 0 0])
-  ("greater" .
-   [1 0 0 0 0 2 0])
-  ("push_heap" .
-   [1 0 0 0 0 0 0 0 1])
-  ("cube_queue" .
-   [0 0 0 0 0 0 0 11 2 0])
-  ("score_fun" .
-   [4 0 0 0 0 0 2 0 0])
-  ("computeCubeScore" .
-   [0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0])
-  ("lex_arc" .
-   [1 0 0 0 0 0 0])
-  ("getInArc" .
-   [1 0 0 0 0 0 0 0])
-  ("start" .
-   [3 0 0 0 0])
-  ("StateIdContainer" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("ArcWithRule" .
-   [1 0 0 0 2 4 0 1 1 0 0])
-  ("tail_id" .
-   [1 0 0 0 0 0 0])
-  ("rescored_chart" .
-   [3 0 0 0 0 0 0 1 2 9 1 0 1 0])
-  ("lex_sid" .
-   [4 0 0 0 0 0 0])
-  ("state" .
-   [3 0 0 0 0])
-  ("lex_tails" .
-   [1 0 0 0 1 0 0 1 0])
-  ("state_map_iter" .
-   [0 0 0 0 0 0 0 0 0 0 0 2 0 0])
-  ("tail" .
-   [3 0 0 0])
-  ("lex_ids_map" .
-   [0 0 0 0 0 0 0 1 0 3 0])
-  ("fds" .
-   [2 0 0])
-  ("Pool" .
-   [2 0 0 0])
-  ("m_srcRule" .
-   [1 0 0 0 0 0 1 0 0])
-  ("m_vecTargetFormula" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("magit-status" .
-   [1 0 0 0 0 0 0 0 0 0 0 0])
-  ("kbd" .
-   [1 0 0])
-  ("global-set-key" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("mod" .
-   [2 0 0])
-  ("NDEBUG" .
-   [1 0 0 0 0 0])
-  ("mutable" .
-   [1 0 0 0 0 0 0])
-  ("m_splitStates" .
-   [0 0 0 0 0 0 1 0 1 0 0 0 0])
-  ("head" .
-   [5 0 0 0])
-  ("final" .
-   [5 0 0 0 0])
-  ("m_inputHg" .
-   [0 0 0 0 0 0 0 0 1])
-  ("quant" .
-   [1 0 0 0 0])
-  ("numbers" .
-   [3 0 0 0 0 0 0])
-  ("space_sep" .
-   [0 0 0 0 0 0 0 1 0])
-  ("AutoRuleConfig" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("false" .
-   [5 0 0 0 0])
-  ("reset_final" .
-   [0 0 0 0 0 0 1 2 0 0 0])
-  ("strHgRef" .
-   [0 0 0 0 0 0 1 0])
-  ("strHg" .
-   [1 0 0 0 0])
-  ("strHg2" .
-   [1 0 0 0 0 0])
-  ("getVocabulary" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("pOut" .
-   [1 0 0 0])
-  ("setVocabulary" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("deriv_weight" .
-   [1 0 0 0 0 0 0 1 1 0 0 0])
-  ("pOutHg" .
-   [1 0 0 0 0 1])
-  ("setFinalState" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("phg" .
-   [4 0 0])
-  ("getWeight" .
-   [0 0 0 0 2 1 0 0 0])
-  ("lexsid" .
-   [1 0 0 0 0 0])
-  ("num" .
-   [1 0 0])
-  ("tsInit" .
-   [1 0 0 0 0 0])
-  ("task_scheduler_init" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("tbb" .
-   [1 0 0])
-  ("getStartState" .
-   [0 0 0 0 0 0 1 1 1 0 0 0 0])
-  ("input_hg" .
-   [1 0 0 0 0 0 0 1])
-  ("sp" .
-   [3 0])
-  ("block_start_" .
-   [0 0 0 0 0 0 2 0 0 0 1 0])
-  ("Position" .
-   [0 0 0 0 2 0 0 0])
-  ("hgInput" .
-   [0 0 0 1 0 0 0])
-  ("IHypergraph" .
-   [0 0 2 1 0 0 0 0 0 0 0])
-  ("blockProcess" .
-   [0 0 0 0 0 0 0 1 0 0 0 0])
-  ("blocks" .
-   [1 0 0 0 0 0])
-  ("m_parseConfig" .
-   [0 0 0 1 0 0 0 0 0 1 0 0 0])
-  ("m_Config" .
-   [0 0 0 0 1 0 0 0])
-  ("printAlignments" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("Hg" .
-   [3 0])
-  ("pArc" .
-   [1 0 0 0])
-  ("arcs" .
-   [3 0 0 0])
-  ("size" .
-   [13 0 0 0])
-  ("items" .
-   [5 0 0 0 0])
-  ("cube" .
-   [48 0 1 0])
-  ("items_in_order" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("getSymbolType" .
-   [0 0 0 0 0 0 0 0 0 0 2 0 0])
-  ("voc" .
-   [4 0 0])
-  ("input_var_index" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("tails" .
-   [8 0 0 0 0])
-  ("getVariableIndex" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("getVariable" .
-   [0 0 0 0 0 0 0 1 0 0 0])
-  ("voc_" .
-   [1 0 0 0])
-  ("NamedFeatureWeights" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("PhraseIndex" .
-   [1 0 0 0 0 0 0 0 0 0 0])
-  ("XMT_THROW_LOG" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("XMT_THROW" .
-   [0 0 0 0 0 0 1 0 0])
-  ("StringToTreeRuleParser" .
-   [1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("RuleParser" .
-   [0 0 0 0 0 0 1 1 0 0])
-  ("Rule" .
-   [1 0 0 0])
-  ("7" .
-   [1])
-  ("matched" .
-   [1 0 0 1 0 0 0])
-  ("mRuleParts" .
+((("kAlignment" .
    [0 0 0 0 0 1 0 0 0 0])
-  ("kVariableSym" .
-   [0 0 0 1 3 1 0 0 0 0 0 0])
-  ("rule" .
-   [6 0 0 1])
-  ("grammar_" .
-   [1 0 0 0 0 0 0 0])
-  ("p_rule" .
-   [2 0 0 0 0 0])
-  ("outside_score" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("getOutsideScore" .
-   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0])
-  ("getInsideScore" .
-   [0 0 0 0 0 2 1 3 0 0 0 0 0 0])
-  ("score" .
-   [23 0 0 0 0])
-  ("inside" .
-   [0 0 0 0 1 0])
-  ("lm_sum" .
-   [4 0 0 0 0 0])
-  ("lm_weight" .
-   [0 0 0 0 1 0 2 0 0])
-  ("inside_score" .
-   [0 0 0 0 0 0 0 0 1 1 0 0])
-  ("rule_lm_" .
-   [2 0 0 0 0 0 0 1])
-  ("pr" .
-   [2 0])
-  ("find" .
-   [5 0 0 0])
-  ("iter" .
-   [14 0 0 0])
-  ("const_iterator" .
-   [0 0 0 0 0 1 1 2 0 0 0 0 0 0])
-  ("unordered_map" .
-   [4 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("Unordered" .
-   [1 0 0 0 2 0 0 0 0])
-  ("getRuleLM" .
-   [1 0 0 0 1 0 0 0 0])
-  ("RuleTy" .
-   [3 0 0 0 0 0])
-  ("scale" .
-   [1 0 0 0 0])
-  ("mix" .
-   [1 0 0])
-  ("FeatureWeight" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("NULL" .
-   [4 0 0 0])
-  ("sent_sids" .
-   [3 0 0 0 0 0 0 0 0])
-  ("sent_span" .
-   [1 0 0 0 0 0 0 0 0])
-  ("chartGetStates" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("Items" .
-   [8 0 1 3 1])
-  ("sent_tag" .
-   [3 0 0 0 0 0 0 0])
-  ("sent_sym" .
-   [1 0 0 0 0 0 0 0])
-  ("addSymbol" .
-   [1 0 0 0 0 0 0 0 0])
-  ("config_" .
-   [14 0 0 0 0 0 1])
-  ("init" .
-   [2 0 0 0])
-  ("get" .
-   [2 0 0])
-  ("rHead" .
-   [1 0 2 2 0])
-  ("m_pResultHg" .
-   [0 0 0 0 1 1 0 0 0 0 0])
-  ("sid" .
-   [17 0 0])
-  ("SplitPolicy" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("connect" .
-   [0 0 0 0 0 1 0])
-  ("headType" .
-   [0 0 0 0 0 1 0 0])
-  ("sidType" .
-   [3 0 0 0 2 0 0])
-  ("type1" .
-   [2 0 0 0 0])
-  ("kStart" .
-   [3 0 0 0 0 1])
-  ("kChi" .
-   [2 0 0 0])
-  ("Special" .
-   [1 0 0 0 0 0 0])
-  ("kNoGlue" .
-   [0 0 0 1 0 0 0])
-  ("kSpecial" .
-   [0 0 0 0 3 0 0 0])
-  ("kGlueRight" .
-   [0 0 0 0 0 0 2 0 0 0])
-  ("kGlueBoth" .
-   [0 0 0 3 1 1 1 0 0])
-  ("kGlueLeft" .
-   [0 0 0 0 0 0 2 0 0])
-  ("GlueRight" .
+  ("ruleParts" .
    [0 0 0 0 0 1 0 0 0])
-  ("GlueLeft" .
-   [1 0 0 0 0 0 0 0])
-  ("GlueBoth" .
-   [0 0 0 0 0 1 0 0])
-  ("NoGlue" .
-   [1 0 0 0 0 0])
-  ("StateType" .
-   [2 0 0 0 0 0 5 0 0])
-  ("XMT_ENUM" .
-   [1 0 0 0 1 0 0 0])
-  ("ILogHypergraph" .
-   [0 0 0 2 0 0 0 0 0 0 0 0 0 0])
-  ("IViterbiHypergraph" .
-   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
-  ("-TERM" .
-   [1 0 0 0 0])
-  ("echo" .
-   [1 0 0 0])
-  ("300" .
-   [1 0 0])
-  ("timeout" .
-   [1 0 0 0 0 0 0])
-  ("BDBException" .
-   [0 0 0 0 0 0 1 0 0 0 0 0])
-  ("IResourceFactory" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("Type" .
-   [2 0 0 0])
-  ("fun" .
-   [2 0 0])
-  ("objc" .
-   [8 0 0 0])
-  ("Spec" .
-   [1 0 0 0])
-  ("Basename" .
-   [0 0 0 0 0 0 1 0])
-  ("qp_dir" .
-   [3 0 0 0 0 1])
-  ("qp_taskname" .
-   [0 0 0 0 0 1 0 1 0 0 0])
-  ("next" .
-   [1 0 0 0])
-  ("is_trainqp" .
-   [0 0 0 1 1 1 0 0 0 0])
-  ("trainqp_params" .
-   [0 0 0 0 0 0 0 0 1 2 0 0 0 0])
-  ("src" .
-   [6 0 0])
-  ("defined" .
-   [1 0 0 0 0 0 0])
-  ("left" .
-   [14 0 0 0])
-  ("config" .
-   [16 0 0 0 0 0])
-  ("bleu2likert_corr" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 2 1 1 0])
-  ("bleu2likert" .
-   [0 0 0 0 0 3 1 0 0 0 0])
-  ("flag_log" .
-   [1 0 0 0 0 0 0 0])
-  ("params" .
-   [14 0 0 0 4 0])
-  ("parseApex" .
-   [0 0 0 0 0 0 1 0 0])
-  ("apex_file" .
-   [1 0 0 0 0 0 0 0 0])
-  ("lexcial" .
-   [0 0 0 0 0 1 0])
-  ("l" .
-   [7])
-  ("m_eCategory" .
-   [1 0 0 0 1 0 0 0 0 0 0])
-  ("kNonTerminalSym" .
-   [0 0 0 0 3 0 0 0 0 0 0 0 0 0 0])
-  ("getSymbolId" .
-   [0 0 0 0 0 0 0 0 0 0 1])
-  ("m_pVocab" .
-   [0 0 0 0 1 0 0 0])
-  ("m_tiPostcondition" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("initialize" .
-   [0 0 0 1 0 0 0 1 0 0])
-  ("theRequest" .
-   [0 0 0 0 0 2 0 0 0 0])
-  ("TransformationRequest" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("Transforms" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("BasicShell" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("Basic" .
-   [0 0 0 0 1])
-  ("pHgIter" .
-   [0 0 0 0 1 0 0])
-  ("pHg" .
-   [1 0 0])
-  ("IFeatureHypergraph" .
-   [1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("SpecialSymbols" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("Vocabulary" .
-   [0 0 1 0 0 0 0 0 0 0])
-  ("clear" .
-   [11 0 0 0 1])
-  ("lexical_span_grammar_" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("lexical" .
-   [0 0 0 0 3 0 1])
-  ("WORKSPACE/" .
-   [0 0 0 0 1 0 0 0 0 0])
-  ("Modules" .
-   [1 0 0 0 0 0 0])
-  ("type" .
-   [2 0 0 0])
-  ("StringToHg" .
-   [1 0 0 0 0 0 0 1 0 0])
-  ("empty" .
-   [0 0 0 0 2])
-  ("chart_1best_ref" .
-   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("BOOST_REQUIRE_CLOSE" .
-   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 2 0 0 0 0])
-  ("chart_1best_ss" .
-   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("306" .
-   [1 0 0])
-  ("chart_1best" .
-   [3 0 0 0 0 0 1 2 2 0 0])
-  ("chart_to_hg_ss" .
-   [3 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("chart_to_hg" .
-   [1 0 0 0 0 0 0 0 0 1 0])
-  ("chart_ref" .
-   [2 0 0 0 0 0 0 0 0])
-  ("chart_ss" .
-   [4 0 0 0 0 0 0 0])
-  ("BOOST_REQUIRE" .
-   [3 0 0 0 2 0 2 3 0 0 0 0 0])
-  ("save-excursion" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("df" .
-   [2 0])
-  ("Span" .
-   [2 0 0 0])
-  ("SyntaxBased" .
-   [0 0 0 0 0 1 4 2 0 0 0])
-  ("/home/zwang/CODE/xmt-externals/FC12/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("markdown-mode" .
-   [1 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("markdown" .
-   [1 0 0 0 0 0 0 0])
-  ("cursor" .
-   [1 0 0 0 0 0])
-  ("yaml-mode" .
-   [1 0 0 1 0 1 0 0 0])
-  ("require" .
-   [1 0 0 0 0 1 0])
-  ("autoload" .
-   [0 0 0 0 1 0 0 0])
-  ("mode" .
-   [2 0 0 0])
-  ("STDERR" .
-   [7 0 0 0 0 0])
-  ("getLatestFile" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("bexternal" .
-   [0 0 0 1 0 0 0 0 0])
-  ("latest_file" .
-   [0 0 0 0 0 0 0 2 0 0 0])
-  ("latest_epoch_time" .
-   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("timestamp" .
-   [1 0 0 0 0 1 0 0 0])
-  ("filename" .
-   [7 0 0 0 0 0 1 0])
-  ("sub" .
-   [1 0 0])
-  ("blpi_tech" .
-   [1 0 0 0 0 0 0 0 0])
-  ("self" .
-   [1 0 0 0])
-  ("tech" .
-   [5 0 0 0])
-  ("stat" .
-   [2 0 0 0])
-  ("lp_dir" .
-   [7 0 0 0 1 0])
-  ("chomp" .
-   [4 0 0 0 0])
-  ("lp_dirs" .
-   [5 0 0 0 0 0 0])
-  ("data" .
-   [2 0 0 0])
-  ("File" .
-   [3 0 0 0])
-  ("glob" .
-   [2 0 0 0])
-  ("testDirs" .
-   [3 0 0 0 0 0 0 0])
-  ("reversedSeq" .
-   [4 0 0 0 0 0 0 0 0 0 0])
-  ("reversed" .
-   [1 0 0 0 0 0 0 0])
-  ("SymbolIdentifier" .
-   [0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0])
-  ("SymbolStringRef" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("iterBegin" .
-   [1 0 0 0 0 0 0 0 0])
-  ("iterEnd" .
-   [2 0 0 0 0 0 0])
-  ("Reversed" .
-   [2 0 0 0 0 0 0 0])
-  ("rc_reversed" .
-   [0 0 0 0 0 1 1 0 0 0 0])
-  ("/c05_data/zwang/code/CORETRAINING/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("then" .
-   [1 0 0 0])
-  ("customer" .
-   [0 0 1 1 0 0 0 0])
-  ("elsif" .
-   [3 0 0 0 0])
-  ("eq" .
-   [3 0])
-  ("target_label" .
-   [0 0 0 0 0 0 0 1 0 2 0 0])
-  ("target" .
-   [1 0 0 1 0 2])
-  ("port" .
-   [2 0 0 0])
-  ("r_msg" .
-   [0 0 0 1 0])
-  ("kInputLimit" .
-   [0 0 0 1 0 0 0 0 0 0 0])
-  ("msg" .
-   [2 0 0])
-  ("strIndexType" .
-   [1 0 0 0 0 0 0 0 0 0 0 0])
-  ("EXIT_SUCCESS" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("PATH" .
-   [1 0 0 0])
-  ("raw" .
-   [1 0 0])
-  ("predicted" .
-   [1 0 0 0 0 0 0 0 0])
-  ("tmptest" .
-   [1 0 0 0 0 0 0])
-  ("tmptrain" .
-   [1 0 0 0 0 0 0 0])
-  ("arff" .
-   [1 0 0 0])
-  ("feats" .
-   [8 0 0 0 0])
-  ("feat_arr" .
-   [3 0 0 0 0 0 0 0])
-  ("feat_names" .
-   [2 0 0 0 0 0 0 0 0 0])
-  ("foreach" .
-   [13 0 0 0 0 0 0])
-  ("cnts" .
-   [4 0 0 0])
-  ("set" .
-   [1 0 0])
-  ("green" .
-   [2 0 0 0 0])
-  ("OCRCUnsupervised" .
-   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
-  ("safesystem" .
-   [0 0 0 0 0 0 1 1 0 0])
-  ("oss" .
-   [2 0 0])
-  ("ostream" .
-   [2 0 0 0 0 0 0])
-  ("LogHelper" .
-   [0 0 0 0 1 0 0 0 0])
-  ("LWUtil" .
-   [1 0 0 3 0 0])
-  ("fstream" .
-   [0 0 1 0 0 0 0])
-  ("getOutputLabel" .
-   [0 0 0 0 0 0 2 0 0 0 0 0 0 0])
-  ("tokenID" .
-   [2 0 0 0 0 0 0])
-  ("~/CODE/racerx/racerx/OCRC/GetProbFromCount.perl" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("~/CODE/racerx/racerx/OCRC/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("~/CODE/data/OCRC/processed_data/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("~/CODE/data/OCRC/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("~/CODE/data/" .
-   [0 0 0 0 0 0 0 0 0 1 0 0])
-  ("log" .
-   [1 0 0])
-  ("ocr" .
-   [1 0 0])
-  ("ref" .
-   [5 0 0])
-  ("~/CODE/racerx/racerx/Debug/OCRC/chardiff" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("~/CODE/racerx/racerx/Debug/OCRC/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("~/CODE/racerx/racerx/Debug/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("~/CODE/racerx/racerx/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0])
-  ("~/CODE/racerx/docs/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("~/CODE/racerx/" .
-   [0 0 0 0 0 0 0 0 0 1 2 0 0 0])
-  ("~/CODE/" .
-   [0 0 0 1 1 0 0])
-  ("level" .
-   [1 0 0 1 0])
-  ("value" .
-   [8 0 0 0 0])
-  ("priority" .
-   [0 0 1 1 0 0 0 0])
-  ("logger" .
-   [1 0 0 0 0 0])
-  ("g" .
-   [2])
-  ("getInputLabel" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("out_w" .
-   [1 0 0 0 0])
-  ("new_state" .
-   [1 0 0 0 0 0 0 0 0])
-  ("out_arc" .
-   [2 0 0 0 0 0 0])
-  ("getHead" .
-   [1 0 0 0 3 0 0])
-  ("newsid" .
-   [1 0 0 0 0 0])
-  ("getTail" .
-   [5 0 0 0 1 0 0])
-  ("arc" .
-   [30 0 0])
-  ("addTail" .
-   [3 0 0 0 0 0 0])
-  ("newArc" .
-   [2 0 0 0 0 0])
-  ("scoreHgWithLMFST" .
-   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("setLMFST" .
-   [2 0 0 0 0 0 0 0])
-  ("A" .
-   [4])
-  ("SortArcs" .
-   [0 0 0 0 1 0 0 0])
-  ("tmp" .
-   [9 0 0])
-  ("fin" .
-   [1 0 0])
-  ("stringToHypergraph" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("tokens" .
-   [4 0 0 0 0 0])
-  ("result" .
-   [0 0 0 0 1 0])
-  ("SEGMENT" .
-   [0 0 0 1 0 0 0])
-  ("Compose" .
-   [0 0 0 0 1 0 1])
-  ("hg3" .
-   [4 0 0])
-  ("scoreHgWithLM" .
-   [0 0 0 0 0 1 0 1 0 0 0 0 0])
-  ("10" .
-   [2 0])
-  ("OCRC_DBG_EXEC" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("m_pVoc" .
-   [0 0 0 0 0 1])
-  ("m_plm" .
-   [6 0 0 0 0])
-  ("shared_ptr" .
-   [2 0 0 0 0 0 0 2 1 1])
-  ("shared" .
-   [0 0 0 0 0 1])
-  ("boost" .
-   [25 0 0 0 0])
-  ("e" .
-   [6])
-  ("expandHgAndScore" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("expandHg" .
-   [0 0 0 1 1 0 0 0])
-  ("itt" .
-   [4 0 0])
-  ("begin" .
-   [7 0 2 2 0])
-  ("iterator" .
-   [0 0 0 0 2 1 1 0])
-  ("end" .
-   [11 0 0])
-  ("for" .
-   [11 0 0])
-  ("printOCRCTbl" .
-   [0 0 0 0 1 2 0 0 0 0 0 0])
-  ("ArcTpl" .
-   [2 0 0 0 0 0])
-  ("Weight" .
-   [2 0 0 5 0 0])
-  ("float" .
-   [12 0 1 0 0])
-  ("ViterbiWeightTpl" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("cout" .
-   [7 0 0 0])
-  ("incl" .
-   [3 0 0 0])
-  ("hg2" .
-   [7 0 0])
-  ("xNP" .
-   [1 0 0])
-  ("vNP" .
-   [1 0 0])
-  ("xRho" .
-   [1 0 0 1])
-  ("xEps" .
-   [1 0 0 0])
-  ("eps" .
-   [2 0 0])
-  ("ID" .
-   [2 0])
-  ("RHO" .
-   [1 0 0])
-  ("rho" .
-   [3 0 0])
-  ("Lowercase" .
-   [0 0 0 2 0 0 0 0 0])
-  ("tolower" .
-   [0 0 0 0 0 1 0])
-  ("std" .
-   [161 0 0])
-  ("using" .
-   [11 0 0 0 0])
-  ("ctype" .
-   [0 0 1 0 0])
-  ("include" .
-   [6 0 24 3 3 0 6])
-  ("inputSymbol" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("inputSymbolId" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("export" .
-   [4 0 0 0 0 0])
-  ("in" .
-   [3 0])
-  ("Hypergraph" .
-   [0 0 18 4 0 3 0 0 1 18])
-  ("LHG" .
-   [22 0 0])
-  ("namespace" .
-   [0 0 0 2 9 4 1 0 0])
-  ("LW" .
-   [23 0])
-  ("p" .
-   [2])
-  ("SymbolId" .
-   [0 0 0 2 0 0 0 0])
-  ("pVoc" .
-   [5 0 0 1])
-  ("addToken" .
-   [0 0 0 0 1 1 0 0])
-  ("IVocabulary" .
-   [1 0 0 2 0 0 0 0 0 0 0])
-  ("eLexical" .
-   [0 0 1 0 0 0 0 0])
-  ("StateId" .
-   [5 0 2 7 2 7 4])
-  ("x1" .
-   [2 0])
-  ("hg" .
-   [30 0])
-  ("addState" .
-   [1 0 0 2 6 0 0 0])
-  ("addArc" .
-   [1 0 0 0 2 3])
-  ("new" .
-   [14 0 0])
-  ("Arc" .
-   [28 0 1])
-  ("Head" .
-   [3 0 0 0])
-  ("xA" .
-   [1 0])
-  ("Tails" .
-   [3 0 0 0 0])
-  ("xB" .
-   [2 0])
-  ("HypergraphWriter" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("vA" .
-   [1 0])
-  ("vB" .
-   [1 0])
-  ("static" .
-   [2 0 0 0 0 0])
-  ("emacs" .
-   [2 0 0 0 0])
-  ("ifndef" .
-   [3 0 0 1 0 0])
-  ("delete" .
-   [5 0 1 2 1 0])
-  ("define" .
-   [3 0 0 1 0 0])
-  ("LW_OCRC_HPP" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("endif" .
-   [4 0 0 0 0])
-  ("template" .
-   [6 0 0 3 11 0 0 0])
-  ("typename" .
-   [8 0 0 2 4 2 0 0])
-  ("class" .
-   [4 0 0 0 0])
-  ("public" .
-   [2 0 0 0 0 1])
-  ("Ocrc" .
-   [19 0 1 0])
-  ("~/Util/" .
-   [0 0 0 0 1 0 0])
-  ("~/Util/srilm/" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("or" .
-   [1 0])
-  ("die" .
-   [2 0 0])
-  ("while" .
-   [13 0 0 0 0])
-  ("INFST" .
-   [1 0 0 0 0])
-  ("i" .
-   [17])
-  ("split" .
-   [4 0 0 0 0])
-  ("print" .
-   [36 0 0 0 0])
-  ("line" .
-   [19 0 0 0])
-  ("IMutableHypergraph" .
-   [1 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("lm" .
-   [4 0])
-  ("inline" .
-   [1 0 0 1 0 0])
-  ("iostream" .
-   [0 0 0 0 1 0 0 0])
-  ("cerr" .
-   [32 0 0 0])
-  ("h" .
-   [2])
-  ("endl" .
-   [45 0 0 0])
-  ("void" .
-   [24 0 0 0])
-  ("setOCRTbl" .
-   [0 0 0 0 1 1 0 0 0])
-  ("const" .
-   [27 0 0 0 0])
-  ("string" .
-   [28 0 0 0 0 0])
-  ("OCRC" .
-   [3 0 0 1])
-  ("OCRTblFile" .
-   [1 0 3 1 1 0 0 0 0 0])
-  ("typedef" .
-   [10 0 1 0 0 0 1])
-  ("v" .
-   [8])
-  ("map" .
-   [8 0 0])
-  ("w" .
-   [2])
-  ("double" .
-   [3 0 0 0 0 0])
-  ("s" .
-   [40])
-  ("vector" .
-   [8 0 2 6 1 2])
-  ("Dist" .
-   [4 0 0 0])
-  ("m_lm" .
-   [9 0 0 0])
-  ("this" .
-   [33 0 0 0])
-  ("m_OCRCTbl" .
-   [1 0 3 5 1 1 0 0 0])
-  ("rhs" .
-   [9 0 0])
-  ("T" .
-   [2])
-  ("MutableHypergraph" .
-   [0 0 6 1 0 0 0 0 0 0 0 0 0 0 0 0 3])
-  ("operator" .
-   [1 0 0 0 0 1 0 0])
-  ("t" .
-   [12])
-  ("o" .
-   [2])
-  ("if" .
-   [44 0])
-  ("return" .
-   [23 0 0 1 0 0])
-  ("ifstream" .
-   [2 0 0 0 0 0 0 0])
-  ("inf" .
-   [4 0 0])
-  ("str" .
-   [15 0 0])
-  ("is_open" .
-   [0 0 0 1 1 0 0])
-  ("stringstream" .
-   [0 0 0 0 0 0 3 3 0 0 0 0])
-  ("ss" .
-   [23 0])
-  ("throw" .
-   [4 0 0 0 0])
-  ("run" .
-   [1 0 0])
-  ("runtime_error" .
-   [0 0 0 4 3 1 0 0 0 0 0 0 0])
-  ("st" .
-   [2 0])
-  ("getline" .
-   [1 0 0 0 0 0 0])
-  ("to" .
-   [1 0])
-  ("a" .
-   [11])
-  ("n" .
-   [7])
-  ("int" .
-   [26 0 0])
-  ("m_TblIndex" .
-   [1 0 0 4 0 0 1 0 0 0])
-  ("push_back" .
-   [1 0 0 0 4 9 3 2 0])
-  ("index" .
-   [4 0 0 0 0])
-  ("token" .
-   [8 0 1 1 0])
-  ("prob" .
-   [2 0 0 0])
-  ("first" .
-   [4 0 0 0 0])
-  ("it" .
-   [5 0])
-  ("second" .
-   [3 0 1 4 13 0])
-  ("sent" .
-   [2 0 0 0])
-  ("fout" .
-   [2 0 0 0])
-  ("close" .
-   [1 0 0 0 0])
-  ("deque" .
-   [2 0 0 1 0])
-  ("OCRC_DBG_MSG" .
-   [0 0 2 0 0 0 0 0 0 0 0 0])
-  ("input" .
-   [7 0 0 0 0])
-  ("FIN" .
-   [1 0 0])
-  ("STDOUT" .
-   [1 0 0 0 0 0])
-  ("ACLOCAL" .
-   [1 0 0 0 0 0 0])
-  ("AUTOMAKE" .
-   [1 0 0 0 0 0 0 0])
-  ("-fr" .
-   [1 0 0])
-  ("DBG_NL" .
-   [2 0 0 3 0 0])
-  ("d" .
-   [8])
-  ("next_sid" .
-   [2 0 0 0 0 0 0 0])
-  ("getFinalState" .
-   [0 0 0 0 0 6 0 0 0 0 0 0 0])
-  ("LOG_ERROR" .
-   [0 0 0 0 0 0 1 0 0])
-  ("name=" .
-   [3 0 0 0 0])
-  ("/root" .
-   [1 0 0 0 0])
-  ("LOG_INFO" .
-   [0 0 0 0 0 1 1 0])
-  ("c" .
-   [8])
-  ("BasicDecoderShell" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("O" .
-   [2])
-  ("copy" .
-   [4 0 0 0])
-  ("algorithm" .
-   [0 0 0 0 1 0 0 0 0])
-  ("hpp" .
-   [2 0 0])
-  ("assign" .
-   [1 0 0 0 0 0])
-  ("line1" .
-   [2 0 0 0 0])
-  ("line2" .
-   [2 0 0 0 0])
-  ("else" .
-   [27 0 0 1])
-  ("trace_mat" .
-   [1 0 0 0 0 0 0 0 0])
-  ("try" .
-   [2 0 0])
-  ("catch" .
-   [4 0 0 0 0])
-  ("r" .
-   [3])
-  ("exception" .
-   [1 0 0 0 0 1 1 0 0])
-  ("cnt" .
-   [1 0 0])
-  ("file" .
-   [7 0 0 0])
-  ("arr" .
-   [10 0 0])
-  ("key" .
-   [7 0 0])
-  ("old_key" .
-   [3 0 0 1 2 0 1])
-  ("counts" .
-   [9 0 0 0 0 0])
-  ("tot_counts" .
-   [1 0 1 2 0 1 0 0 0 0])
-  ("keys" .
-   [3 0 0 0])
-  ("scalar" .
-   [0 0 0 1 0 0])
-  ("out" .
-   [4 0 0])
-  ("001" .
-   [2 0 0])
-  ("bin" .
-   [1 0 0])
-  ("perl" .
-   [2 0 0 0])
-  ("use" .
-   [6 0 0])
-  ("Encode" .
-   [1 0 1 0 0 0])
-  ("strict" .
-   [1 0 0 0 0 0])
-  ("my" .
-   [9 0])
-  ("shift" .
-   [7 0 0 0 0])
-  ("ARGV" .
-   [3 0 0 0])
-  ("open" .
-   [5 0 0 0])
-  ("cant" .
-   [1 0 0 0])
-  ("decode" .
-   [1 0 0 0 0 0])
-  ("length" .
-   [9 0 0 0 0 0])
-  ("char" .
-   [8 0 0 0])
-  ("hex" .
-   [3 0 0])
-  ("ord" .
-   [4 0 0])
-  ("codepoint" .
-   [0 0 1 1 2 2 1 0 0])
-  ("outchar" .
-   [0 0 0 0 0 1 0])
-  ("/Users/zwang/CODE/xmt/Apple/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("xmt" .
-   [3 0 0])
-  ("onQueue" .
-   [0 0 0 1 0 0 0])
-  ("Locale" .
-   [0 0 0 0 1 0])
-  ("system" .
-   [4 0 0 0 0 0])
-  ("arr1" .
-   [3 0 0 0])
-  ("hash" .
-   [1 0 0 0])
-  ("arr2" .
-   [1 0 0 0])
-  ("ArcT" .
-   [2 0 0 0])
-  ("fct" .
-   [1 0 0])
-  ("h1" .
-   [1 0])
-  ("test1" .
-   [2 0 0 0 0])
-  ("test" .
-   [2 0 0 0])
-  ("/usr/include/" .
-   [0 0 0 0 0 0 0 2 0 0 0 0 0])
-  ("C_INCLUDE_PATH" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("alias" .
-   [2 0 0 0 0])
-  ("zmq" .
-   [1 0 0])
-  ("fails" .
-   [2 0 0 0 0])
-  ("what" .
-   [1 0 0 0])
-  ("EXIT_FAILURE" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("LW_RULEGENERATOR_HPP" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("GreenRule" .
-   [0 0 0 0 0 1 0 0 0])
-  ("ns" .
-   [1 0])
-  ("use_db" .
-   [1 0 0 0 0 0])
-  ("/c05_data/zwang/code/CORETRAINING/main/3rdParty/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1])
-  ("/c05_data/zwang/code/CORETRAINING/main/3rdParty/perl_libs/" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("lm0_data_task" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("appender" .
-   [0 0 0 1 0 0 0 0])
-  ("appender-ref" .
-   [1 0 0 0 0 0 0 0 0 0 0 0])
-  ("ref=" .
-   [1 0 0 0])
-  ("/logger" .
-   [1 0 0 0 0 0 0])
-  ("normWeights" .
-   [0 0 0 0 0 3 0 0 0 0 0])
-  ("dir" .
-   [1 0 0])
-  ("EOM" .
-   [1 0 0])
-  ("hashSpec" .
-   [1 0 0 0 0 2 0 0])
-  ("slope" .
-   [1 0 0 0 0])
-  ("intercept" .
-   [1 0 0 0 0 0 0 0 0])
-  ("corr" .
-   [1 0 0 0])
-  ("regr" .
-   [1 0 0 0])
-  ("di" .
-   [1 0])
-  ("diff" .
-   [1 0 0 0])
-  ("-d" .
-   [1 0])
-  ("ediff" .
-   [1 0 0 0 0])
-  ("mergepath" .
-   [0 0 0 0 0 0 1 1 0])
-  ("binternal" .
-   [1 0 0 0 0 0 0 0 0])
-  ("date" .
-   [3 0 0 0])
-  ("out2" .
-   [2 0 0 0])
-  ("extend_last_span" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("chart" .
-   [7 0 0 0 0])
-  ("sys" .
-   [4 0 0])
-  ("path" .
-   [6 0 0 0])
-  ("pLm_" .
-   [2 0 0 0])
-  ("right" .
-   [14 0 1 0 0])
-  ("getLMId" .
-   [0 0 0 0 0 0 1])
-  ("pVoc_" .
-   [1 0 0 0 0])
-  ("getSymbol" .
-   [1 0 0 0 0 0 0 0 0])
-  ("kTerminalSym" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("seq" .
-   [1 0 0])
-  ("LMIdPolicy" .
-   [0 0 0 0 1 0 0 0 0 0])
-  ("LM" .
-   [1 0])
-  ("XMT_DEBUG" .
-   [1 0 0 0 0 1 1 0 0])
-  ("ScoreFunct" .
-   [0 0 0 0 0 0 0 0 0 1])
-  ("ScoreFunction" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("hasLabel" .
-   [1 0 0 0 0 0 0 0])
-  ("0" .
-   [1])
-  ("kGlue" .
-   [3 0 0 0 0])
-  ("RuleTrie" .
-   [1 0 0 0 0 0 0 0])
-  ("getRuleTrie" .
-   [0 0 0 0 0 0 0 1 0 1 0])
-  ("rules_trie_" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("Util" .
-   [6 0 0 0])
-  ("grammar" .
-   [1 0 0 0 0 0 0])
-  ("Grammar" .
-   [3 0 0 1 0 0 0])
-  ("GrammarManagerTy" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("stop_onfail" .
-   [0 0 0 0 0 0 0 1 1 0 0])
-  ("stop" .
-   [1 0 0 0])
-  ("static_pointer_cast" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("ss_rules" .
-   [0 0 0 0 0 2 0 0])
-  ("b" .
-   [3])
-  ("//bin/" .
-   [0 0 1 0 0 0])
-  ("check" .
-   [1 0 0 0 0])
-  ("build/xmt/XMTStandaloneServer" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("pipeline" .
-   [0 0 0 1 1 0 0 0])
-  ("--port" .
-   [1 0 0 0 0 0])
-  ("/dev/null" .
-   [1 0 0 0 0 0 0 0 0])
-  ("Derivation" .
-   [1 0 0 0 1 0 0 0 0 0])
-  ("InputValidate" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("pDeriv" .
-   [3 0 0 0 0 0])
-  ("make_shared" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("trim" .
-   [1 0 0 0])
-  ("XMTRequest" .
-   [0 0 0 0 1 0 0 0 0 0])
-  ("request" .
-   [5 0 0 0 0 0 0])
-  ("inputSegment" .
-   [0 0 0 0 0 0 0 0 0 1 1 0])
-  ("segment" .
-   [0 0 0 0 1 0 0])
-  ("segmentID" .
-   [0 0 0 0 0 0 0 0 1])
-  ("xmtInstance" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("processSegment" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("TestMT" .
-   [1 0 0 0 0 0])
-  ("space" .
-   [3 0 0 0 0])
-  ("bool" .
-   [4 0 0 0])
-  ("addSpace" .
-   [0 0 0 0 0 1 0 0])
-  ("m_config" .
-   [1 0 0 0 0 0 0 0])
-  ("nt_cost" .
-   [1 0 0 0 0 0 0])
-  ("total" .
-   [3 0 0 0 0])
-  ("val" .
-   [1 0 0])
-  ("sort" .
-   [2 0 0 0])
-  ("sorted" .
-   [1 0 0 0 0 0])
-  ("feat_weights" .
-   [0 0 0 0 0 0 0 0 1 0 0 0])
-  ("symId" .
-   [2 0 0 0 0])
-  ("identifier" .
-   [0 0 0 0 1 0 0 0 0 0])
-  ("size_t" .
-   [3 0 0 0 0 0])
-  ("hash_combine" .
-   [0 0 0 0 0 0 0 0 0 0 0 1])
-  ("struct" .
-   [2 0 0 0 0 0])
-  ("CP" .
-   [1 0])
-  ("DOP" .
-   [2 0 0])
-  ("DataOwnershipPolicy" .
-   [0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("Trie" .
-   [1 0 0 0])
-  ("Self" .
-   [8 0 0 0])
-  ("span" .
-   [6 0 0 1])
-  ("true" .
-   [8 0 0 0])
-  ("BOOST_REQUIRE_EQUAL" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0])
-  ("lexical_cast" .
-   [0 0 0 0 0 0 0 0 0 0 2 1])
-  ("strRef" .
-   [1 0 0 0 0 0])
-  ("weight" .
-   [1 0 0 0 0 0])
-  ("narc" .
-   [2 0 0 0])
-  ("setWeight" .
-   [0 0 0 0 1 0 0 0 0])
-  ("span_path" .
-   [0 0 0 0 0 0 0 1 0])
-  ("src_formula" .
-   [0 0 0 1 0 0 0 0 0 0 0])
-  ("unsigned" .
-   [0 0 0 2 8 1 0 0])
-  ("num_nonterm" .
-   [0 0 0 0 0 0 1 2 0 0 0])
-  ("sym" .
-   [3 0 0])
-  ("vec_span_spec_rules" .
-   [0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0])
-  ("for_block" .
-   [0 0 0 0 1 0 0 0 0])
-  ("is_block" .
-   [0 0 0 1 0 0 0 0])
-  ("vec_glue_unary" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("one" .
-   [1 0 0])
-  ("numrule_config" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("max_num_toks" .
-   [0 0 0 0 0 0 0 0 1 0 0 0])
-  ("XMT_TRACE" .
-   [5 0 0 0 0 0 0 0 0])
-  ("MRule" .
-   [1 0 0 0 0])
-  ("multitok_rules" .
-   [3 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("Multitok" .
-   [0 0 0 0 0 0 0 1])
-  ("MultitokConfig" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("MultitokRule" .
-   [0 0 0 0 0 0 0 0 0 1 0 0])
-  ("multitok_config" .
-   [1 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("multitok_rule" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("mrules" .
-   [2 0 0 0 0 0])
-  ("StringCharacterIterator" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("GenericString" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("Computes" .
-   [0 0 0 0 0 0 0 1])
-  ("ComputeRuleCostFct" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("m_ruleCostFct" .
-   [0 0 0 0 0 0 1 0 1 0 0 0 0])
-  ("getRuleScore" .
-   [0 0 0 0 0 0 0 0 1 1 0 0])
-  ("ruleCost" .
-   [1 0 0 0 0 1 0 0])
-  ("m_bCleanup" .
-   [0 0 0 0 1 0 0 1 0 0])
-  ("bCleanup" .
-   [0 0 0 1 0 0 0 0])
-  ("cleanup_" .
-   [0 0 0 0 0 1 2 0])
-  ("reset" .
-   [2 0 0 0 0])
-  ("virtual" .
-   [1 0 0 0 0 0 0])
-  ("TrieGrammar" .
+  ("BOOST_AUTO_TEST_CASE" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("getSpanDist" .
    [1 0 0 0 0 0 0 0 0 0 0])
-  ("python" .
+  ("spansize" .
+   [3 0 0 0 0 0 0 0])
+  ("span_dist" .
+   [0 0 0 0 0 0 0 2 1])
+  ("dist_ref" .
+   [1 0 0 0 0 0 0 0])
+  ("getDist" .
+   [0 0 0 0 2 0 0])
+  ("ngram_manager" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0])
+  ("in_arc" .
    [2 0 0 0 0 0])
-  ("import" .
-   [4 0 0 0 0 0])
-  ("def" .
-   [2 0 0])
-  ("main" .
-   [3 0 0 0])
-  ("with" .
-   [1 0 0 0])
-  ("txtconf" .
-   [1 0 0 0 0 0 0])
-  ("fconf" .
+  ("in_arc_id" .
+   [0 0 0 0 0 0 0 0 1])
+  ("hg_" .
+   [3 0 0])
+  ("ArcId" .
+   [0 0 0 0 1])
+  ("pre_dist" .
+   [2 0 0 0 0 0 1 1])
+  ("pre" .
+   [10 0 0])
+  ("arc_head" .
+   [3 0 0 0 0 3 0 1])
+  ("dist_" .
+   [12 0 0 0 0])
+  ("dist" .
+   [4 0 0 0])
+  ("x" .
+   [1])
+  ("Matrix" .
+   [0 0 1 2 3 1])
+  ("fileinput" .
+   [1 0 0 0 0 0 0 0 0])
+  ("arcs_to_keep" .
+   [0 0 0 0 0 4 1 2 0 0 0 0])
+  ("m_maxEdgesPerItem" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("SyntaxRulePtrComp" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0])
+  ("getConfigs" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("parse_args" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("False" .
    [1 0 0 0 0])
-  ("configs" .
-   [4 0 0 0 0 0 1])
-  ("__name__" .
+  ("default" .
+   [1 0 0 0 0 0 0])
+  ("help" .
+   [2 0 0 0])
+  ("dest" .
+   [1 0 0 0])
+  ("action" .
+   [1 0 0 0 0 0])
+  ("add_option" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("args" .
+   [2 0 0 0])
+  ("options" .
+   [1 0 0 0 0 0 0])
+  ("parser" .
+   [3 0 0 0 0 0])
+  ("usage" .
+   [1 0 0 0 0])
+  ("OptionParser" .
+   [0 0 1 0 0 0 1 0 0 0 0 0])
+  ("optparse" .
    [1 0 0 0 0 0 0 0])
   ("from" .
    [1 0 0 0])
-  ("optparse" .
+  ("__name__" .
    [1 0 0 0 0 0 0 0])
-  ("OptionParser" .
-   [0 0 1 0 0 0 1 0 0 0 0 0])
-  ("usage" .
+  ("configs" .
+   [4 0 0 0 0 0 1])
+  ("fconf" .
    [1 0 0 0 0])
-  ("parser" .
-   [3 0 0 0 0 0])
-  ("options" .
+  ("txtconf" .
    [1 0 0 0 0 0 0])
-  ("args" .
-   [2 0 0 0])
-  ("add_option" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("action" .
-   [1 0 0 0 0 0])
-  ("dest" .
+  ("with" .
    [1 0 0 0])
-  ("help" .
-   [2 0 0 0])
-  ("default" .
-   [1 0 0 0 0 0 0])
-  ("False" .
-   [1 0 0 0 0])
-  ("parse_args" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("getConfigs" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("SyntaxRulePtrComp" .
-   [0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0])
-  ("m_maxEdgesPerItem" .
-   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
-  ("arcs_to_keep" .
-   [0 0 0 0 0 4 1 2 0 0 0 0])
-  ("fileinput" .
-   [1 0 0 0 0 0 0 0 0])
-  ("Matrix" .
-   [0 0 1 2 3 1])
-  ("x" .
-   [1])
-  ("dist" .
-   [4 0 0 0])
-  ("dist_" .
-   [12 0 0 0 0])
-  ("arc_head" .
-   [3 0 0 0 0 3 0 1])
-  ("pre" .
-   [10 0 0])
-  ("pre_dist" .
-   [2 0 0 0 0 0 1 1])
-  ("ArcId" .
-   [0 0 0 0 1])
-  ("hg_" .
-   [3 0 0])
-  ("in_arc_id" .
-   [0 0 0 0 0 0 0 0 1])
-  ("in_arc" .
+  ("main" .
+   [3 0 0 0])
+  ("def" .
+   [2 0 0])
+  ("import" .
+   [4 0 0 0 0 0])
+  ("python" .
    [2 0 0 0 0 0])
-  ("ngram_manager" .
-   [0 0 0 0 0 0 0 0 2 0 0 0 0])
-  ("getDist" .
-   [0 0 0 0 2 0 0])
-  ("dist_ref" .
-   [1 0 0 0 0 0 0 0])
-  ("span_dist" .
-   [0 0 0 0 0 0 0 2 1])
-  ("spansize" .
-   [3 0 0 0 0 0 0 0])
-  ("getSpanDist" .
+  ("TrieGrammar" .
    [1 0 0 0 0 0 0 0 0 0 0])
-  ("BOOST_AUTO_TEST_CASE" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("ruleParts" .
+  ("virtual" .
+   [1 0 0 0 0 0 0])
+  ("reset" .
+   [2 0 0 0 0])
+  ("cleanup_" .
+   [0 0 0 0 0 1 2 0])
+  ("bCleanup" .
+   [0 0 0 1 0 0 0 0])
+  ("m_bCleanup" .
+   [0 0 0 0 1 0 0 1 0 0])
+  ("ruleCost" .
+   [1 0 0 0 0 1 0 0])
+  ("getRuleScore" .
+   [0 0 0 0 0 0 0 0 1 1 0 0])
+  ("m_ruleCostFct" .
+   [0 0 0 0 0 0 1 0 1 0 0 0 0])
+  ("ComputeRuleCostFct" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("Computes" .
+   [0 0 0 0 0 0 0 1])
+  ("GenericString" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("StringCharacterIterator" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("mrules" .
+   [2 0 0 0 0 0])
+  ("multitok_rule" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("multitok_config" .
+   [1 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("MultitokRule" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("MultitokConfig" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("Multitok" .
+   [0 0 0 0 0 0 0 1])
+  ("multitok_rules" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("MRule" .
+   [1 0 0 0 0])
+  ("XMT_TRACE" .
+   [5 0 0 0 0 0 0 0 0])
+  ("max_num_toks" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("numrule_config" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("one" .
+   [1 0 0])
+  ("vec_glue_unary" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("is_block" .
+   [0 0 0 1 0 0 0 0])
+  ("for_block" .
+   [0 0 0 0 1 0 0 0 0])
+  ("vec_span_spec_rules" .
+   [0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0])
+  ("sym" .
+   [3 0 0])
+  ("num_nonterm" .
+   [0 0 0 0 0 0 1 2 0 0 0])
+  ("unsigned" .
+   [0 0 0 2 8 1 0 0])
+  ("src_formula" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("span_path" .
+   [0 0 0 0 0 0 0 1 0])
+  ("setWeight" .
+   [0 0 0 0 1 0 0 0 0])
+  ("narc" .
+   [2 0 0 0])
+  ("weight" .
+   [1 0 0 0 0 0])
+  ("strRef" .
+   [1 0 0 0 0 0])
+  ("lexical_cast" .
+   [0 0 0 0 0 0 0 0 0 0 2 1])
+  ("BOOST_REQUIRE_EQUAL" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0])
+  ("true" .
+   [8 0 0 0])
+  ("span" .
+   [6 0 0 1])
+  ("Self" .
+   [8 0 0 0])
+  ("Trie" .
+   [1 0 0 0])
+  ("DataOwnershipPolicy" .
+   [0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("DOP" .
+   [2 0 0])
+  ("CP" .
+   [1 0])
+  ("struct" .
+   [2 0 0 0 0 0])
+  ("hash_combine" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("size_t" .
+   [3 0 0 0 0 0])
+  ("identifier" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("symId" .
+   [2 0 0 0 0])
+  ("feat_weights" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("sorted" .
+   [1 0 0 0 0 0])
+  ("sort" .
+   [2 0 0 0])
+  ("val" .
+   [1 0 0])
+  ("total" .
+   [3 0 0 0 0])
+  ("nt_cost" .
+   [1 0 0 0 0 0 0])
+  ("m_config" .
+   [1 0 0 0 0 0 0 0])
+  ("addSpace" .
+   [0 0 0 0 0 1 0 0])
+  ("bool" .
+   [4 0 0 0])
+  ("space" .
+   [3 0 0 0 0])
+  ("TestMT" .
+   [1 0 0 0 0 0])
+  ("processSegment" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("xmtInstance" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("segmentID" .
+   [0 0 0 0 0 0 0 0 1])
+  ("segment" .
+   [0 0 0 0 1 0 0])
+  ("inputSegment" .
+   [0 0 0 0 0 0 0 0 0 1 1 0])
+  ("request" .
+   [5 0 0 0 0 0 0])
+  ("XMTRequest" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("trim" .
+   [1 0 0 0])
+  ("make_shared" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("pDeriv" .
+   [3 0 0 0 0 0])
+  ("InputValidate" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("Derivation" .
+   [1 0 0 0 1 0 0 0 0 0])
+  ("/dev/null" .
+   [1 0 0 0 0 0 0 0 0])
+  ("--port" .
+   [1 0 0 0 0 0])
+  ("pipeline" .
+   [0 0 0 1 1 0 0 0])
+  ("build/xmt/XMTStandaloneServer" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("check" .
+   [1 0 0 0 0])
+  ("//bin/" .
+   [0 0 1 0 0 0])
+  ("b" .
+   [3])
+  ("ss_rules" .
+   [0 0 0 0 0 2 0 0])
+  ("static_pointer_cast" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("stop" .
+   [1 0 0 0])
+  ("stop_onfail" .
+   [0 0 0 0 0 0 0 1 1 0 0])
+  ("GrammarManagerTy" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Grammar" .
+   [3 0 0 1 0 0 0])
+  ("grammar" .
+   [1 0 0 0 0 0 0])
+  ("Util" .
+   [6 0 0 0])
+  ("rules_trie_" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("getRuleTrie" .
+   [0 0 0 0 0 0 0 1 0 1 0])
+  ("RuleTrie" .
+   [1 0 0 0 0 0 0 0])
+  ("kGlue" .
+   [3 0 0 0 0])
+  ("0" .
+   [1])
+  ("hasLabel" .
+   [1 0 0 0 0 0 0 0])
+  ("ScoreFunction" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ScoreFunct" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("XMT_DEBUG" .
+   [1 0 0 0 0 1 1 0 0])
+  ("LM" .
+   [1 0])
+  ("LMIdPolicy" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("seq" .
+   [1 0 0])
+  ("kTerminalSym" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("getSymbol" .
+   [1 0 0 0 0 0 0 0 0])
+  ("pVoc_" .
+   [1 0 0 0 0])
+  ("getLMId" .
+   [0 0 0 0 0 0 1])
+  ("right" .
+   [14 0 1 0 0])
+  ("pLm_" .
+   [2 0 0 0])
+  ("path" .
+   [6 0 0 0])
+  ("sys" .
+   [4 0 0])
+  ("chart" .
+   [7 0 0 0 0])
+  ("extend_last_span" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("out2" .
+   [2 0 0 0])
+  ("date" .
+   [3 0 0 0])
+  ("binternal" .
+   [1 0 0 0 0 0 0 0 0])
+  ("mergepath" .
+   [0 0 0 0 0 0 1 1 0])
+  ("ediff" .
+   [1 0 0 0 0])
+  ("-d" .
+   [1 0])
+  ("diff" .
+   [1 0 0 0])
+  ("di" .
+   [1 0])
+  ("regr" .
+   [1 0 0 0])
+  ("corr" .
+   [1 0 0 0])
+  ("intercept" .
+   [1 0 0 0 0 0 0 0 0])
+  ("slope" .
+   [1 0 0 0 0])
+  ("hashSpec" .
+   [1 0 0 0 0 2 0 0])
+  ("EOM" .
+   [1 0 0])
+  ("dir" .
+   [1 0 0])
+  ("normWeights" .
+   [0 0 0 0 0 3 0 0 0 0 0])
+  ("/logger" .
+   [1 0 0 0 0 0 0])
+  ("ref=" .
+   [1 0 0 0])
+  ("appender-ref" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("appender" .
+   [0 0 0 1 0 0 0 0])
+  ("lm0_data_task" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("/c05_data/zwang/code/CORETRAINING/main/3rdParty/perl_libs/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("/c05_data/zwang/code/CORETRAINING/main/3rdParty/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1])
+  ("use_db" .
+   [1 0 0 0 0 0])
+  ("ns" .
+   [1 0])
+  ("GreenRule" .
    [0 0 0 0 0 1 0 0 0])
-  ("kAlignment" .
-   [0 0 0 0 0 1 0 0 0 0])))
+  ("LW_RULEGENERATOR_HPP" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("EXIT_FAILURE" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("what" .
+   [1 0 0 0])
+  ("fails" .
+   [2 0 0 0 0])
+  ("zmq" .
+   [1 0 0])
+  ("alias" .
+   [2 0 0 0 0])
+  ("C_INCLUDE_PATH" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("/usr/include/" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0])
+  ("test" .
+   [2 0 0 0])
+  ("test1" .
+   [2 0 0 0 0])
+  ("h1" .
+   [1 0])
+  ("fct" .
+   [1 0 0])
+  ("ArcT" .
+   [2 0 0 0])
+  ("arr2" .
+   [1 0 0 0])
+  ("hash" .
+   [1 0 0 0])
+  ("arr1" .
+   [3 0 0 0])
+  ("system" .
+   [4 0 0 0 0 0])
+  ("Locale" .
+   [0 0 0 0 1 0])
+  ("onQueue" .
+   [0 0 0 1 0 0 0])
+  ("xmt" .
+   [3 0 0])
+  ("/Users/zwang/CODE/xmt/Apple/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("outchar" .
+   [0 0 0 0 0 1 0])
+  ("codepoint" .
+   [0 0 1 1 2 2 1 0 0])
+  ("ord" .
+   [4 0 0])
+  ("hex" .
+   [3 0 0])
+  ("char" .
+   [8 0 0 0])
+  ("length" .
+   [9 0 0 0 0 0])
+  ("decode" .
+   [1 0 0 0 0 0])
+  ("cant" .
+   [1 0 0 0])
+  ("open" .
+   [5 0 0 0])
+  ("ARGV" .
+   [3 0 0 0])
+  ("shift" .
+   [7 0 0 0 0])
+  ("my" .
+   [9 0])
+  ("strict" .
+   [1 0 0 0 0 0])
+  ("Encode" .
+   [1 0 1 0 0 0])
+  ("use" .
+   [6 0 0])
+  ("perl" .
+   [2 0 0 0])
+  ("bin" .
+   [1 0 0])
+  ("001" .
+   [2 0 0])
+  ("out" .
+   [4 0 0])
+  ("scalar" .
+   [0 0 0 1 0 0])
+  ("keys" .
+   [3 0 0 0])
+  ("tot_counts" .
+   [1 0 1 2 0 1 0 0 0 0])
+  ("counts" .
+   [9 0 0 0 0 0])
+  ("old_key" .
+   [3 0 0 1 2 0 1])
+  ("key" .
+   [7 0 0])
+  ("arr" .
+   [10 0 0])
+  ("file" .
+   [7 0 0 0])
+  ("cnt" .
+   [1 0 0])
+  ("exception" .
+   [1 0 0 0 0 1 1 0 0])
+  ("r" .
+   [3])
+  ("catch" .
+   [4 0 0 0 0])
+  ("try" .
+   [2 0 0])
+  ("trace_mat" .
+   [1 0 0 0 0 0 0 0 0])
+  ("else" .
+   [27 0 0 1])
+  ("line2" .
+   [2 0 0 0 0])
+  ("line1" .
+   [2 0 0 0 0])
+  ("assign" .
+   [1 0 0 0 0 0])
+  ("hpp" .
+   [2 0 0])
+  ("algorithm" .
+   [0 0 0 0 1 0 0 0 0])
+  ("copy" .
+   [4 0 0 0])
+  ("O" .
+   [2])
+  ("BasicDecoderShell" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("c" .
+   [8])
+  ("LOG_INFO" .
+   [0 0 0 0 0 1 1 0])
+  ("/root" .
+   [1 0 0 0 0])
+  ("name=" .
+   [3 0 0 0 0])
+  ("LOG_ERROR" .
+   [0 0 0 0 0 0 1 0 0])
+  ("getFinalState" .
+   [0 0 0 0 0 6 0 0 0 0 0 0 0])
+  ("next_sid" .
+   [2 0 0 0 0 0 0 0])
+  ("d" .
+   [8])
+  ("DBG_NL" .
+   [2 0 0 3 0 0])
+  ("-fr" .
+   [1 0 0])
+  ("AUTOMAKE" .
+   [1 0 0 0 0 0 0 0])
+  ("ACLOCAL" .
+   [1 0 0 0 0 0 0])
+  ("STDOUT" .
+   [1 0 0 0 0 0])
+  ("FIN" .
+   [1 0 0])
+  ("input" .
+   [7 0 0 0 0])
+  ("OCRC_DBG_MSG" .
+   [0 0 2 0 0 0 0 0 0 0 0 0])
+  ("deque" .
+   [2 0 0 1 0])
+  ("close" .
+   [1 0 0 0 0])
+  ("fout" .
+   [2 0 0 0])
+  ("sent" .
+   [2 0 0 0])
+  ("second" .
+   [3 0 1 4 13 0])
+  ("it" .
+   [5 0])
+  ("first" .
+   [4 0 0 0 0])
+  ("prob" .
+   [2 0 0 0])
+  ("token" .
+   [8 0 1 1 0])
+  ("index" .
+   [4 0 0 0 0])
+  ("push_back" .
+   [1 0 0 0 4 9 3 2 0])
+  ("m_TblIndex" .
+   [1 0 0 4 0 0 1 0 0 0])
+  ("int" .
+   [26 0 0])
+  ("n" .
+   [7])
+  ("a" .
+   [11])
+  ("to" .
+   [1 0])
+  ("getline" .
+   [1 0 0 0 0 0 0])
+  ("st" .
+   [2 0])
+  ("runtime_error" .
+   [0 0 0 4 3 1 0 0 0 0 0 0 0])
+  ("run" .
+   [1 0 0])
+  ("throw" .
+   [4 0 0 0 0])
+  ("ss" .
+   [23 0])
+  ("stringstream" .
+   [0 0 0 0 0 0 3 3 0 0 0 0])
+  ("is_open" .
+   [0 0 0 1 1 0 0])
+  ("str" .
+   [15 0 0])
+  ("inf" .
+   [4 0 0])
+  ("ifstream" .
+   [2 0 0 0 0 0 0 0])
+  ("return" .
+   [23 0 0 1 0 0])
+  ("if" .
+   [44 0])
+  ("o" .
+   [2])
+  ("t" .
+   [12])
+  ("operator" .
+   [1 0 0 0 0 1 0 0])
+  ("MutableHypergraph" .
+   [0 0 6 1 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("T" .
+   [2])
+  ("rhs" .
+   [9 0 0])
+  ("m_OCRCTbl" .
+   [1 0 3 5 1 1 0 0 0])
+  ("this" .
+   [33 0 0 0])
+  ("m_lm" .
+   [9 0 0 0])
+  ("Dist" .
+   [4 0 0 0])
+  ("vector" .
+   [8 0 2 6 1 2])
+  ("s" .
+   [40])
+  ("double" .
+   [3 0 0 0 0 0])
+  ("w" .
+   [2])
+  ("map" .
+   [8 0 0])
+  ("v" .
+   [8])
+  ("typedef" .
+   [10 0 1 0 0 0 1])
+  ("OCRTblFile" .
+   [1 0 3 1 1 0 0 0 0 0])
+  ("OCRC" .
+   [3 0 0 1])
+  ("string" .
+   [28 0 0 0 0 0])
+  ("const" .
+   [27 0 0 0 0])
+  ("setOCRTbl" .
+   [0 0 0 0 1 1 0 0 0])
+  ("void" .
+   [24 0 0 0])
+  ("endl" .
+   [45 0 0 0])
+  ("h" .
+   [2])
+  ("cerr" .
+   [32 0 0 0])
+  ("iostream" .
+   [0 0 0 0 1 0 0 0])
+  ("inline" .
+   [1 0 0 1 0 0])
+  ("lm" .
+   [4 0])
+  ("IMutableHypergraph" .
+   [1 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("line" .
+   [19 0 0 0])
+  ("print" .
+   [36 0 0 0 0])
+  ("split" .
+   [4 0 0 0 0])
+  ("i" .
+   [17])
+  ("INFST" .
+   [1 0 0 0 0])
+  ("while" .
+   [13 0 0 0 0])
+  ("die" .
+   [2 0 0])
+  ("or" .
+   [1 0])
+  ("~/Util/srilm/" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("~/Util/" .
+   [0 0 0 0 1 0 0])
+  ("Ocrc" .
+   [19 0 1 0])
+  ("public" .
+   [2 0 0 0 0 1])
+  ("class" .
+   [4 0 0 0 0])
+  ("typename" .
+   [8 0 0 2 4 2 0 0])
+  ("template" .
+   [6 0 0 3 11 0 0 0])
+  ("endif" .
+   [4 0 0 0 0])
+  ("LW_OCRC_HPP" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("define" .
+   [3 0 0 1 0 0])
+  ("delete" .
+   [5 0 1 2 1 0])
+  ("ifndef" .
+   [3 0 0 1 0 0])
+  ("emacs" .
+   [2 0 0 0 0])
+  ("static" .
+   [2 0 0 0 0 0])
+  ("vB" .
+   [1 0])
+  ("vA" .
+   [1 0])
+  ("HypergraphWriter" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("xB" .
+   [2 0])
+  ("Tails" .
+   [3 0 0 0 0])
+  ("xA" .
+   [1 0])
+  ("Head" .
+   [3 0 0 0])
+  ("Arc" .
+   [28 0 1])
+  ("new" .
+   [14 0 0])
+  ("addArc" .
+   [1 0 0 0 2 3])
+  ("addState" .
+   [1 0 0 2 6 0 0 0])
+  ("hg" .
+   [30 0])
+  ("x1" .
+   [2 0])
+  ("StateId" .
+   [5 0 2 7 2 7 4])
+  ("eLexical" .
+   [0 0 1 0 0 0 0 0])
+  ("IVocabulary" .
+   [1 0 0 2 0 0 0 0 0 0 0])
+  ("addToken" .
+   [0 0 0 0 1 1 0 0])
+  ("pVoc" .
+   [5 0 0 1])
+  ("SymbolId" .
+   [0 0 0 2 0 0 0 0])
+  ("p" .
+   [2])
+  ("LW" .
+   [23 0])
+  ("namespace" .
+   [0 0 0 2 9 4 1 0 0])
+  ("LHG" .
+   [22 0 0])
+  ("Hypergraph" .
+   [0 0 18 4 0 3 0 0 1 18])
+  ("in" .
+   [3 0])
+  ("export" .
+   [4 0 0 0 0 0])
+  ("inputSymbolId" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("inputSymbol" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("include" .
+   [6 0 24 3 3 0 6])
+  ("ctype" .
+   [0 0 1 0 0])
+  ("using" .
+   [11 0 0 0 0])
+  ("std" .
+   [161 0 0])
+  ("tolower" .
+   [0 0 0 0 0 1 0])
+  ("Lowercase" .
+   [0 0 0 2 0 0 0 0 0])
+  ("rho" .
+   [3 0 0])
+  ("RHO" .
+   [1 0 0])
+  ("ID" .
+   [2 0])
+  ("eps" .
+   [2 0 0])
+  ("xEps" .
+   [1 0 0 0])
+  ("xRho" .
+   [1 0 0 1])
+  ("vNP" .
+   [1 0 0])
+  ("xNP" .
+   [1 0 0])
+  ("hg2" .
+   [7 0 0])
+  ("incl" .
+   [3 0 0 0])
+  ("cout" .
+   [7 0 0 0])
+  ("ViterbiWeightTpl" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("float" .
+   [12 0 1 0 0])
+  ("Weight" .
+   [2 0 0 5 0 0])
+  ("ArcTpl" .
+   [2 0 0 0 0 0])
+  ("printOCRCTbl" .
+   [0 0 0 0 1 2 0 0 0 0 0 0])
+  ("for" .
+   [11 0 0])
+  ("end" .
+   [11 0 0])
+  ("iterator" .
+   [0 0 0 0 2 1 1 0])
+  ("begin" .
+   [7 0 2 2 0])
+  ("itt" .
+   [4 0 0])
+  ("expandHg" .
+   [0 0 0 1 1 0 0 0])
+  ("expandHgAndScore" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("e" .
+   [6])
+  ("boost" .
+   [25 0 0 0 0])
+  ("shared" .
+   [0 0 0 0 0 1])
+  ("shared_ptr" .
+   [2 0 0 0 0 0 0 2 1 1])
+  ("m_plm" .
+   [6 0 0 0 0])
+  ("m_pVoc" .
+   [0 0 0 0 0 1])
+  ("OCRC_DBG_EXEC" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("10" .
+   [2 0])
+  ("scoreHgWithLM" .
+   [0 0 0 0 0 1 0 1 0 0 0 0 0])
+  ("hg3" .
+   [4 0 0])
+  ("Compose" .
+   [0 0 0 0 1 0 1])
+  ("SEGMENT" .
+   [0 0 0 1 0 0 0])
+  ("result" .
+   [0 0 0 0 1 0])
+  ("tokens" .
+   [4 0 0 0 0 0])
+  ("stringToHypergraph" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("fin" .
+   [1 0 0])
+  ("tmp" .
+   [9 0 0])
+  ("SortArcs" .
+   [0 0 0 0 1 0 0 0])
+  ("A" .
+   [4])
+  ("setLMFST" .
+   [2 0 0 0 0 0 0 0])
+  ("scoreHgWithLMFST" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("newArc" .
+   [2 0 0 0 0 0])
+  ("addTail" .
+   [3 0 0 0 0 0 0])
+  ("arc" .
+   [30 0 0])
+  ("getTail" .
+   [5 0 0 0 1 0 0])
+  ("newsid" .
+   [1 0 0 0 0 0])
+  ("getHead" .
+   [1 0 0 0 3 0 0])
+  ("out_arc" .
+   [2 0 0 0 0 0 0])
+  ("new_state" .
+   [1 0 0 0 0 0 0 0 0])
+  ("out_w" .
+   [1 0 0 0 0])
+  ("getInputLabel" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("g" .
+   [2])
+  ("logger" .
+   [1 0 0 0 0 0])
+  ("priority" .
+   [0 0 1 1 0 0 0 0])
+  ("value" .
+   [8 0 0 0 0])
+  ("level" .
+   [1 0 0 1 0])
+  ("~/CODE/" .
+   [0 0 0 1 1 0 0])
+  ("~/CODE/racerx/" .
+   [0 0 0 0 0 0 0 0 0 1 2 0 0 0])
+  ("~/CODE/racerx/docs/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("~/CODE/racerx/racerx/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0])
+  ("~/CODE/racerx/racerx/Debug/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("~/CODE/racerx/racerx/Debug/OCRC/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("~/CODE/racerx/racerx/Debug/OCRC/chardiff" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("ref" .
+   [5 0 0])
+  ("ocr" .
+   [1 0 0])
+  ("log" .
+   [1 0 0])
+  ("~/CODE/data/" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("~/CODE/data/OCRC/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("~/CODE/data/OCRC/processed_data/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("~/CODE/racerx/racerx/OCRC/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("~/CODE/racerx/racerx/OCRC/GetProbFromCount.perl" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tokenID" .
+   [2 0 0 0 0 0 0])
+  ("getOutputLabel" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("fstream" .
+   [0 0 1 0 0 0 0])
+  ("LWUtil" .
+   [1 0 0 3 0 0])
+  ("LogHelper" .
+   [0 0 0 0 1 0 0 0 0])
+  ("ostream" .
+   [2 0 0 0 0 0 0])
+  ("oss" .
+   [2 0 0])
+  ("safesystem" .
+   [0 0 0 0 0 0 1 1 0 0])
+  ("OCRCUnsupervised" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("green" .
+   [2 0 0 0 0])
+  ("set" .
+   [1 0 0])
+  ("cnts" .
+   [4 0 0 0])
+  ("foreach" .
+   [13 0 0 0 0 0 0])
+  ("feat_names" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("feat_arr" .
+   [3 0 0 0 0 0 0 0])
+  ("feats" .
+   [8 0 0 0 0])
+  ("arff" .
+   [1 0 0 0])
+  ("tmptrain" .
+   [1 0 0 0 0 0 0 0])
+  ("tmptest" .
+   [1 0 0 0 0 0 0])
+  ("predicted" .
+   [1 0 0 0 0 0 0 0 0])
+  ("raw" .
+   [1 0 0])
+  ("PATH" .
+   [1 0 0 0])
+  ("EXIT_SUCCESS" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("strIndexType" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("msg" .
+   [2 0 0])
+  ("kInputLimit" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("r_msg" .
+   [0 0 0 1 0])
+  ("port" .
+   [2 0 0 0])
+  ("target" .
+   [1 0 0 1 0 2])
+  ("target_label" .
+   [0 0 0 0 0 0 0 1 0 2 0 0])
+  ("eq" .
+   [3 0])
+  ("elsif" .
+   [3 0 0 0 0])
+  ("customer" .
+   [0 0 1 1 0 0 0 0])
+  ("then" .
+   [1 0 0 0])
+  ("/c05_data/zwang/code/CORETRAINING/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("rc_reversed" .
+   [0 0 0 0 0 1 1 0 0 0 0])
+  ("Reversed" .
+   [2 0 0 0 0 0 0 0])
+  ("iterEnd" .
+   [2 0 0 0 0 0 0])
+  ("iterBegin" .
+   [1 0 0 0 0 0 0 0 0])
+  ("SymbolStringRef" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("SymbolIdentifier" .
+   [0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0])
+  ("reversed" .
+   [1 0 0 0 0 0 0 0])
+  ("reversedSeq" .
+   [4 0 0 0 0 0 0 0 0 0 0])
+  ("testDirs" .
+   [3 0 0 0 0 0 0 0])
+  ("glob" .
+   [2 0 0 0])
+  ("File" .
+   [3 0 0 0])
+  ("data" .
+   [2 0 0 0])
+  ("lp_dirs" .
+   [5 0 0 0 0 0 0])
+  ("chomp" .
+   [4 0 0 0 0])
+  ("lp_dir" .
+   [7 0 0 0 1 0])
+  ("stat" .
+   [2 0 0 0])
+  ("tech" .
+   [5 0 0 0])
+  ("self" .
+   [1 0 0 0])
+  ("blpi_tech" .
+   [1 0 0 0 0 0 0 0 0])
+  ("sub" .
+   [1 0 0])
+  ("filename" .
+   [7 0 0 0 0 0 1 0])
+  ("timestamp" .
+   [1 0 0 0 0 1 0 0 0])
+  ("latest_epoch_time" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("latest_file" .
+   [0 0 0 0 0 0 0 2 0 0 0])
+  ("bexternal" .
+   [0 0 0 1 0 0 0 0 0])
+  ("getLatestFile" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("STDERR" .
+   [7 0 0 0 0 0])
+  ("mode" .
+   [2 0 0 0])
+  ("autoload" .
+   [0 0 0 0 1 0 0 0])
+  ("require" .
+   [1 0 0 0 0 1 0])
+  ("yaml-mode" .
+   [1 0 0 1 0 1 0 0 0])
+  ("cursor" .
+   [1 0 0 0 0 0])
+  ("markdown" .
+   [1 0 0 0 0 0 0 0])
+  ("markdown-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("/home/zwang/CODE/xmt-externals/FC12/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("SyntaxBased" .
+   [0 0 0 0 0 1 4 2 0 0 0])
+  ("Span" .
+   [2 0 0 0])
+  ("df" .
+   [2 0])
+  ("save-excursion" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("BOOST_REQUIRE" .
+   [3 0 0 0 2 0 2 3 0 0 0 0 0])
+  ("chart_ss" .
+   [4 0 0 0 0 0 0 0])
+  ("chart_ref" .
+   [2 0 0 0 0 0 0 0 0])
+  ("chart_to_hg" .
+   [1 0 0 0 0 0 0 0 0 1 0])
+  ("chart_to_hg_ss" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("chart_1best" .
+   [3 0 0 0 0 0 1 2 2 0 0])
+  ("306" .
+   [1 0 0])
+  ("chart_1best_ss" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("BOOST_REQUIRE_CLOSE" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 2 0 0 0 0])
+  ("chart_1best_ref" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("empty" .
+   [0 0 0 0 2])
+  ("StringToHg" .
+   [1 0 0 0 0 0 0 1 0 0])
+  ("type" .
+   [2 0 0 0])
+  ("Modules" .
+   [1 0 0 0 0 0 0])
+  ("WORKSPACE/" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("lexical" .
+   [0 0 0 0 3 0 1])
+  ("lexical_span_grammar_" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("clear" .
+   [11 0 0 0 1])
+  ("Vocabulary" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("SpecialSymbols" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("IFeatureHypergraph" .
+   [1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("pHg" .
+   [1 0 0])
+  ("pHgIter" .
+   [0 0 0 0 1 0 0])
+  ("Basic" .
+   [0 0 0 0 1])
+  ("BasicShell" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("Transforms" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("TransformationRequest" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("theRequest" .
+   [0 0 0 0 0 2 0 0 0 0])
+  ("initialize" .
+   [0 0 0 1 0 0 0 1 0 0])
+  ("m_tiPostcondition" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("m_pVocab" .
+   [0 0 0 0 1 0 0 0])
+  ("getSymbolId" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("kNonTerminalSym" .
+   [0 0 0 0 3 0 0 0 0 0 0 0 0 0 0])
+  ("m_eCategory" .
+   [1 0 0 0 1 0 0 0 0 0 0])
+  ("l" .
+   [7])
+  ("lexcial" .
+   [0 0 0 0 0 1 0])
+  ("apex_file" .
+   [1 0 0 0 0 0 0 0 0])
+  ("parseApex" .
+   [0 0 0 0 0 0 1 0 0])
+  ("params" .
+   [14 0 0 0 4 0])
+  ("flag_log" .
+   [1 0 0 0 0 0 0 0])
+  ("bleu2likert" .
+   [0 0 0 0 0 3 1 0 0 0 0])
+  ("bleu2likert_corr" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 2 1 1 0])
+  ("config" .
+   [16 0 0 0 0 0])
+  ("left" .
+   [14 0 0 0])
+  ("defined" .
+   [1 0 0 0 0 0 0])
+  ("src" .
+   [6 0 0])
+  ("trainqp_params" .
+   [0 0 0 0 0 0 0 0 1 2 0 0 0 0])
+  ("is_trainqp" .
+   [0 0 0 1 1 1 0 0 0 0])
+  ("next" .
+   [1 0 0 0])
+  ("qp_taskname" .
+   [0 0 0 0 0 1 0 1 0 0 0])
+  ("qp_dir" .
+   [3 0 0 0 0 1])
+  ("Basename" .
+   [0 0 0 0 0 0 1 0])
+  ("Spec" .
+   [1 0 0 0])
+  ("objc" .
+   [8 0 0 0])
+  ("fun" .
+   [2 0 0])
+  ("Type" .
+   [2 0 0 0])
+  ("IResourceFactory" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("BDBException" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("timeout" .
+   [1 0 0 0 0 0 0])
+  ("300" .
+   [1 0 0])
+  ("echo" .
+   [1 0 0 0])
+  ("-TERM" .
+   [1 0 0 0 0])
+  ("IViterbiHypergraph" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("ILogHypergraph" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("XMT_ENUM" .
+   [1 0 0 0 1 0 0 0])
+  ("StateType" .
+   [2 0 0 0 0 0 5 0 0])
+  ("NoGlue" .
+   [1 0 0 0 0 0])
+  ("GlueBoth" .
+   [0 0 0 0 0 1 0 0])
+  ("GlueLeft" .
+   [1 0 0 0 0 0 0 0])
+  ("GlueRight" .
+   [0 0 0 0 0 1 0 0 0])
+  ("kGlueLeft" .
+   [0 0 0 0 0 0 2 0 0])
+  ("kGlueBoth" .
+   [0 0 0 3 1 1 1 0 0])
+  ("kGlueRight" .
+   [0 0 0 0 0 0 2 0 0 0])
+  ("kSpecial" .
+   [0 0 0 0 3 0 0 0])
+  ("kNoGlue" .
+   [0 0 0 1 0 0 0])
+  ("Special" .
+   [1 0 0 0 0 0 0])
+  ("kChi" .
+   [2 0 0 0])
+  ("kStart" .
+   [3 0 0 0 0 1])
+  ("type1" .
+   [2 0 0 0 0])
+  ("sidType" .
+   [3 0 0 0 2 0 0])
+  ("headType" .
+   [0 0 0 0 0 1 0 0])
+  ("connect" .
+   [0 0 0 0 0 1 0])
+  ("SplitPolicy" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("sid" .
+   [17 0 0])
+  ("m_pResultHg" .
+   [0 0 0 0 1 1 0 0 0 0 0])
+  ("rHead" .
+   [1 0 2 2 0])
+  ("get" .
+   [2 0 0])
+  ("init" .
+   [2 0 0 0])
+  ("config_" .
+   [14 0 0 0 0 0 1])
+  ("addSymbol" .
+   [1 0 0 0 0 0 0 0 0])
+  ("sent_sym" .
+   [1 0 0 0 0 0 0 0])
+  ("sent_tag" .
+   [3 0 0 0 0 0 0 0])
+  ("Items" .
+   [8 0 1 3 1])
+  ("chartGetStates" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("sent_span" .
+   [1 0 0 0 0 0 0 0 0])
+  ("sent_sids" .
+   [3 0 0 0 0 0 0 0 0])
+  ("NULL" .
+   [4 0 0 0])
+  ("FeatureWeight" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("mix" .
+   [1 0 0])
+  ("scale" .
+   [1 0 0 0 0])
+  ("RuleTy" .
+   [3 0 0 0 0 0])
+  ("getRuleLM" .
+   [1 0 0 0 1 0 0 0 0])
+  ("Unordered" .
+   [1 0 0 0 2 0 0 0 0])
+  ("unordered_map" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("const_iterator" .
+   [0 0 0 0 0 1 1 2 0 0 0 0 0 0])
+  ("iter" .
+   [14 0 0 0])
+  ("find" .
+   [5 0 0 0])
+  ("pr" .
+   [2 0])
+  ("rule_lm_" .
+   [2 0 0 0 0 0 0 1])
+  ("inside_score" .
+   [0 0 0 0 0 0 0 0 1 1 0 0])
+  ("lm_weight" .
+   [0 0 0 0 1 0 2 0 0])
+  ("lm_sum" .
+   [4 0 0 0 0 0])
+  ("inside" .
+   [0 0 0 0 1 0])
+  ("score" .
+   [23 0 0 0 0])
+  ("getInsideScore" .
+   [0 0 0 0 0 2 1 3 0 0 0 0 0 0])
+  ("getOutsideScore" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0])
+  ("outside_score" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("p_rule" .
+   [2 0 0 0 0 0])
+  ("grammar_" .
+   [1 0 0 0 0 0 0 0])
+  ("rule" .
+   [6 0 0 1])
+  ("kVariableSym" .
+   [0 0 0 1 3 1 0 0 0 0 0 0])
+  ("mRuleParts" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("matched" .
+   [1 0 0 1 0 0 0])
+  ("7" .
+   [1])
+  ("Rule" .
+   [1 0 0 0])
+  ("RuleParser" .
+   [0 0 0 0 0 0 1 1 0 0])
+  ("StringToTreeRuleParser" .
+   [1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("XMT_THROW" .
+   [0 0 0 0 0 0 1 0 0])
+  ("XMT_THROW_LOG" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("PhraseIndex" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("NamedFeatureWeights" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("voc_" .
+   [1 0 0 0])
+  ("getVariable" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("getVariableIndex" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("tails" .
+   [8 0 0 0 0])
+  ("input_var_index" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("voc" .
+   [4 0 0])
+  ("getSymbolType" .
+   [0 0 0 0 0 0 0 0 0 0 2 0 0])
+  ("items_in_order" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("cube" .
+   [48 0 1 0])
+  ("items" .
+   [5 0 0 0 0])
+  ("size" .
+   [13 0 0 0])
+  ("arcs" .
+   [3 0 0 0])
+  ("pArc" .
+   [1 0 0 0])
+  ("Hg" .
+   [3 0])
+  ("printAlignments" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("m_Config" .
+   [0 0 0 0 1 0 0 0])
+  ("m_parseConfig" .
+   [0 0 0 1 0 0 0 0 0 1 0 0 0])
+  ("blocks" .
+   [1 0 0 0 0 0])
+  ("blockProcess" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("IHypergraph" .
+   [0 0 2 1 0 0 0 0 0 0 0])
+  ("hgInput" .
+   [0 0 0 1 0 0 0])
+  ("Position" .
+   [0 0 0 0 2 0 0 0])
+  ("block_start_" .
+   [0 0 0 0 0 0 2 0 0 0 1 0])
+  ("sp" .
+   [3 0])
+  ("input_hg" .
+   [1 0 0 0 0 0 0 1])
+  ("getStartState" .
+   [0 0 0 0 0 0 1 1 1 0 0 0 0])
+  ("tbb" .
+   [1 0 0])
+  ("task_scheduler_init" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("tsInit" .
+   [1 0 0 0 0 0])
+  ("num" .
+   [1 0 0])
+  ("lexsid" .
+   [1 0 0 0 0 0])
+  ("getWeight" .
+   [0 0 0 0 2 1 0 0 0])
+  ("phg" .
+   [4 0 0])
+  ("setFinalState" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("pOutHg" .
+   [1 0 0 0 0 1])
+  ("deriv_weight" .
+   [1 0 0 0 0 0 0 1 1 0 0 0])
+  ("setVocabulary" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("pOut" .
+   [1 0 0 0])
+  ("getVocabulary" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("strHg2" .
+   [1 0 0 0 0 0])
+  ("strHg" .
+   [1 0 0 0 0])
+  ("strHgRef" .
+   [0 0 0 0 0 0 1 0])
+  ("reset_final" .
+   [0 0 0 0 0 0 1 2 0 0 0])
+  ("false" .
+   [5 0 0 0 0])
+  ("AutoRuleConfig" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("space_sep" .
+   [0 0 0 0 0 0 0 1 0])
+  ("numbers" .
+   [3 0 0 0 0 0 0])
+  ("quant" .
+   [1 0 0 0 0])
+  ("m_inputHg" .
+   [0 0 0 0 0 0 0 0 1])
+  ("final" .
+   [5 0 0 0 0])
+  ("head" .
+   [5 0 0 0])
+  ("m_splitStates" .
+   [0 0 0 0 0 0 1 0 1 0 0 0 0])
+  ("mutable" .
+   [1 0 0 0 0 0 0])
+  ("NDEBUG" .
+   [1 0 0 0 0 0])
+  ("mod" .
+   [2 0 0])
+  ("global-set-key" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("kbd" .
+   [1 0 0])
+  ("magit-status" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("m_vecTargetFormula" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("m_srcRule" .
+   [1 0 0 0 0 0 1 0 0])
+  ("Pool" .
+   [2 0 0 0])
+  ("fds" .
+   [2 0 0])
+  ("lex_ids_map" .
+   [0 0 0 0 0 0 0 1 0 3 0])
+  ("tail" .
+   [3 0 0 0])
+  ("state_map_iter" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0 0])
+  ("lex_tails" .
+   [1 0 0 0 1 0 0 1 0])
+  ("state" .
+   [3 0 0 0 0])
+  ("lex_sid" .
+   [4 0 0 0 0 0 0])
+  ("rescored_chart" .
+   [3 0 0 0 0 0 0 1 2 9 1 0 1 0])
+  ("tail_id" .
+   [1 0 0 0 0 0 0])
+  ("ArcWithRule" .
+   [1 0 0 0 2 4 0 1 1 0 0])
+  ("StateIdContainer" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("start" .
+   [3 0 0 0 0])
+  ("getInArc" .
+   [1 0 0 0 0 0 0 0])
+  ("lex_arc" .
+   [1 0 0 0 0 0 0])
+  ("computeCubeScore" .
+   [0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0])
+  ("score_fun" .
+   [4 0 0 0 0 0 2 0 0])
+  ("cube_queue" .
+   [0 0 0 0 0 0 0 11 2 0])
+  ("push_heap" .
+   [1 0 0 0 0 0 0 0 1])
+  ("greater" .
+   [1 0 0 0 0 2 0])
+  ("Cube" .
+   [9 0 0 0])
+  ("top" .
+   [3 0 0])
+  ("pop_heap" .
+   [0 0 0 0 0 0 0 1])
+  ("pop_back" .
+   [0 0 0 0 0 1 0 0])
+  ("accept" .
+   [2 0 0 1 0 0])
+  ("cubeExpand" .
+   [0 0 0 0 0 0 2 0 0 0])
+  ("rescore" .
+   [0 0 0 0 1 1 0])
+  ("break" .
+   [1 0 0 0 0])
+  ("ScoreFunctionType" .
+   [0 0 0 2 1 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("Carry" .
+   [2 0 0 0 0])
+  ("carries" .
+   [1 0 0 0 0 1 1])
+  ("item" .
+   [3 0 0 0])
+  ("setInsideScore" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("getSyntaxRuleScore" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("RuleExternalFeaturesArray" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("ext_feats" .
+   [0 0 0 1 1 0 0 0 1])
+  ("compute" .
+   [1 0 0 0 0 0 0])
+  ("RuleForScoreType" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("getRuleForScore" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("output_carry" .
+   [0 0 0 0 0 0 2 4 0 0 0 0])
+  ("RuleAndAdditionalFeats" .
+   [0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("kLMFeatId" .
+   [0 0 0 0 1 0 0 0 0])
+  ("CubeGrowConfig" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("private" .
+   [2 0 0 0 0 0 0])
+  ("ChartT" .
+   [6 0 0 0 0 0])
+  ("num_items_per_nonterm" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nonterm_beam_" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("SymId" .
+   [1 0 0 3 0])
+  ("getTargetFormula" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("symid" .
+   [2 0 0 0 0])
+  ("isVariable" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("nonlex_iter" .
+   [0 0 0 0 0 0 0 2 0 0 0])
+  ("lex_iter" .
+   [0 0 0 0 0 1 0 0])
+  ("cit" .
+   [8 0 0])
+  ("temp_carry_state_" .
+   [0 0 0 0 0 2 0 1 0 0 0 0 0 0 0 0 0])
+  ("ScoreType" .
+   [1 0 0 0 0 0 0 2 0])
+  ("state_score" .
+   [1 0 0 0 0 0 0 2 4 0 0])
+  ("state_score_" .
+   [3 0 0 0 0 0 0 0 0 1 2 0])
+  ("ResultArc" .
+   [1 0 0 0 0 0 0 0 0])
+  ("additional_score" .
+   [0 0 0 0 1 2 0 0 1 0 0 0 0 1 0 0])
+  ("non" .
+   [1 0 0])
+  ("nonlex_sid" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("rule_feats" .
+   [0 0 0 0 0 0 3 0 3 0])
+  ("pRule" .
+   [0 0 1 0 0])
+  ("additionalFeats" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("setData" .
+   [0 0 0 0 2 1 0])
+  ("temp_state_arcs_" .
+   [1 0 0 0 0 1 1 0 0 0 2 1 0 1 0 0])
+  ("arc_score_" .
+   [0 0 0 0 0 0 1 2 0 1])
+  ("post" .
+   [6 0 0 0])
+  ("getPostCondition" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("new_head" .
+   [1 0 0 0 0 1 0 4])
+  ("spannonterm_states_" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("make_pair" .
+   [1 0 0 0 0 0 0 0 0])
+  ("items_tofill" .
+   [0 0 0 0 0 0 2 1 4 0 0 0])
+  ("state_carry_" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("stage" .
+   [8 0 0 0 0])
+  ("item_ranks" .
+   [1 0 0 0 0 0 1 0 1 0])
+  ("rank" .
+   [4 0 0 0])
+  ("item_lists" .
+   [1 0 0 0 0 0 0 0 1 0])
+  ("cube_item_ext" .
+   [1 0 0 0 0 0 0 0 3 1 2 0 1])
+  ("compile" .
+   [1 0 0 0 0 0 1])
+  ("pair" .
+   [1 0 0 0])
+  ("ArcsContainer" .
+   [1 0 0 0 2 1 0 0 1 0 0 0 0])
+  ("ArcsConta" .
+   [0 0 0 0 0 0 0 1 0])
+  ("KeyValue" .
+   [0 0 0 0 2 0 0 0])
+  ("nth_iter" .
+   [0 0 0 1 2 0 0 0])
+  ("nth_element" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("bind" .
+   [2 0 0 0])
+  ("CubeGrowRescoring" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("ParseTraits" .
+   [0 0 0 0 0 1 1 0 0 0 0])
+  ("arcLess" .
+   [2 0 0 0 0 0 0])
+  ("_1" .
+   [2 0])
+  ("_2" .
+   [2 0])
+  ("stateLess" .
+   [2 0 0 0 0 0 0 1 0])
+  ("s1" .
+   [2 0])
+  ("s2" .
+   [2 0])
+  ("ResultHg" .
+   [1 0 0 2 0 0 2 1])))
