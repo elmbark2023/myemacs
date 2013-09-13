@@ -1,0 +1,37 @@
+[user]
+	name = Ziyuan Wang
+	email = zwang@sdl.com
+[core]
+	autocrlf = input
+	editor = emacs
+	excludesfile = /home/zwang/.gitignore
+	trustctime = false
+[status]
+	showuntrackedfiles = all
+[color]
+	ui = auto
+[alias]
+        co = checkout
+        br = "!git branch | grep -v 'done'"
+	ci = commit
+	st = status
+	last = log -1 HEAD
+        lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative        
+        review = "!f(){ if [[ $1 == \"\" ]]; then branch=\"master\"; else branch=$1; fi; git push origin HEAD:refs/for/$branch;}; f"
+        unstaged = reset HEAD --
+
+[merge]
+	conflictstyle = diff3
+	tool = ediff
+
+[mergetool.ediff]
+    cmd = emacs --eval \"(progn(defun ediff-write-merge-buffer () (let ((file ediff-merge-store-file)) (set-buffer ediff-buffer-C) (write-region (point-min) (point-max) file) (message \\\"Merge buffer saved in: %s\\\" file) (set-buffer-modified-p nil) (sit-for 1))) (setq ediff-quit-hook 'kill-emacs ediff-quit-merge-hook 'ediff-write-merge-buffer) (ediff-merge-files-with-ancestor \\\"$LOCAL\\\" \\\"$REMOTE\\\" \\\"$BASE\\\" nil \\\"$MERGED\\\"))\"
+
+[mergetool "emerge"]
+	trustExitCode = false
+[mergetool]
+	keepBackup = false
+[url "git://anongit.kde.org/"]
+	insteadOf = kde:
+[url "git@git.kde.org:"]
+	pushInsteadOf = kde:
